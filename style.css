@@ -50,6 +50,7 @@ img {
     top: 30%;
     left:28%;
     border-radius: 50%;
+    border-color: #264653;
 }
 #habilidade {
     font-family:'bebas', Times, serif;
@@ -80,6 +81,8 @@ ul {
     font-size: 25px;
     top: 120px;
     left: 35%;
+    border: 1px solid;
+    width: 100px;
 }
 
 #links {
