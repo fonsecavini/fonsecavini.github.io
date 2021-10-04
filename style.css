@@ -50,8 +50,8 @@ img {
     top: 30%;
     left:28%;
     border-radius: 50%;
-    border-color: #264653;
-    
+    background-color:white;
+    padding: 1px;
 }
 .habilidade {
     font-family:'bebas', Times, serif;
